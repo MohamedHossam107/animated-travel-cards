@@ -44,3 +44,7 @@ The project focuses on CSS animations, hover effects, transitions, and visual de
 ## 👨‍💻 Author
 
 Mohamed Hossam
+
+## 🎬 Project Preview
+
+![Animated Travel Cards](preview.gif)
